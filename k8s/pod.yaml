@@ -5,6 +5,7 @@ kind: Pod
 metadata:
 
   name: todo-pod
+  namespace: django
 
 spec:
 
